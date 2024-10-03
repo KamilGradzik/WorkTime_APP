@@ -1,4 +1,4 @@
-# Aplikacja do monitorowania czasu pracy pracowników
+# Projekt aplikacji do monitorowania czasu pracy pracowników
 
 ## Widoki
 
